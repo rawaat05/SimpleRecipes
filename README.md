@@ -1,4 +1,6 @@
 # Simple Recipes application
+![simplerecipescreenshots](https://github.com/rawaat05/SimpleRecipes/assets/9966418/785f8061-9689-4c71-aba8-80ce2d934709)
+
 ## Introduction 
 
 The application is a user-friendly recipe management solution.  
